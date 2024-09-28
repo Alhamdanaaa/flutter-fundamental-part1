@@ -1,7 +1,34 @@
 # hello_world
 
 A new Flutter project.
+# Tugas 1 dan 2
 
+### Jobsheet 5 Praktikum 1
+
+![Screenshot hello_world prak 1](images/1.4.png)
+### Jobsheet 5 Praktikum 2
+
+![Screenshot hello_world prak 2](images/p2.jpg)
 ### Jobsheet 5 Praktikum 3
 
-![Screenshot hello_world](images/01.png)
+![Screenshot hello_world prak 3](images/01.png)
+### Jobsheet 5 Praktikum 4
+
+#### Langkah 1
+![Screenshot hello_world prak 4 l1](images/02.png)
+#### Langkah 2
+
+![Screenshot hello_world prak 4 l2](images/03.png)
+### Jobsheet 5 Praktikum 5
+
+![Screenshot hello_world prak 5](images/p5.png)
+
+# Tugas 3
+### Langkah 3
+![Tugas 3 Langkah 3](images/t3l3.png)
+### Langkah 4
+![Tugas 4 Langkah 4](images/t3l4.png)
+### Langkah 5
+![Tugas 5 Langkah 5](images/t3l5.png)
+### Langkah 6
+![Tugas 6 Langkah 6](images/t3l6.png)
