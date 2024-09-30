@@ -27,8 +27,23 @@ A new Flutter project.
 ### Langkah 3
 ![Tugas 3 Langkah 3](images/t3l3.png)
 ### Langkah 4
-![Tugas 4 Langkah 4](images/t3l4.png)
+![Tugas 3 Langkah 4](images/t3l4.png)
 ### Langkah 5
-![Tugas 5 Langkah 5](images/t3l5.png)
+![Tugas 3 Langkah 5](images/t3l5.png)
 ### Langkah 6
-![Tugas 6 Langkah 6](images/t3l6.png)
+![Tugas 3 Langkah 6](images/t3l6.png)
+
+
+# Tugas 4
+### Langkah 3
+![Tugas 4 Langkah 3](images/firstappP3.png)
+### Langkah 4
+![Tugas 4 Langkah 4](images/firstappP4.png)
+### Langkah 5
+![Tugas 4 Langkah 5](images/firstappP5.png)
+### Langkah 6
+![Tugas 4 Langkah 6](images/firstappP6.png)
+### Langkah 7
+![Tugas 4 Langkah 7](images/firstappP7.png)
+### Langkah 8
+![Tugas 4 Langkah 8](images/firstappP8.png)
